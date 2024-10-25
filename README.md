@@ -1,9 +1,3 @@
 # Meu Portfólio
 
-Este é o meu portfólio, onde apresento minhas habilidades e projetos.
-
-## Tecnologias Usadas
-- HTML
-- CSS
-- JavaScript
-- Python
+Este é o meu portfólio, onde eu me apresento e mostro em html meu objetivo e foco.
